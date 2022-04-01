@@ -1,2 +1,2 @@
-# online_coursec_ertificate
+# online_courses_ertificate
 all the certificate of online courses 
